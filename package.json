@@ -1,0 +1,16 @@
+{
+  "name": "entity-locker-sdk",
+  "version": "1.0.0",
+  "description": "Node.js SDK for DigiLocker Entity Locker integration",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test/example.js"
+  },
+  "author": "Piyush Agarwal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "qs": "^6.12.0"
+  }
+}
